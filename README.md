@@ -5,11 +5,6 @@
 </div>
 
 <div id="badges" align="center">
- <a href="https://twitter.com/rohitrai_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohitrai_27" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohitrai27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohitrai27/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rohitrai27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohitrai27" height="30" width="40" /></a>
-<br>
-  <br>
   <p > <img src="https://komarev.com/ghpvc/?username=rohitrai94&label=Profile%20views&color=0e75b6&style=flat" alt="rohitrai94" /> </p>
 </div><br>
 
@@ -20,16 +15,11 @@
 - 🌍 I'm passionate about **open source contributions 🤝**
 
 - 📫 How to reach me **rohitrai0768@gmail.com**
+<br>
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rohitrai_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohitrai_27" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohitrai27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohitrai27/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rohitrai27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohitrai27" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
+<h3 align="center">Languages and Tools:</h3>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
@@ -71,8 +61,13 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rohitrai94/rohitrai94/output/pacman-contribution-graph.svg">
 </picture>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitrai94&show_icons=true&locale=en" alt="rohitrai94" /></p>
 ###
 
-###
+
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/rohitrai_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohitrai_27" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohitrai27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohitrai27/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rohitrai27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohitrai27" height="30" width="40" /></a>
+</p>
