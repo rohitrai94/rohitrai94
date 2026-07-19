@@ -8,7 +8,7 @@
   <p > <img src="https://komarev.com/ghpvc/?username=rohitrai94&label=Profile%20views&color=0e75b6&style=flat" alt="rohitrai94" /> </p>
 </div><br>
 
-- 🌟 I’m currently learning **fullstack development**
+- 🌟 I’m  **fullstack developer**
 
 - 🌱 I’m currently **doing DSA in Java**
 
